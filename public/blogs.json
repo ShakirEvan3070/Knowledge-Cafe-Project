@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://ibb.co.com/7xtZygTV",
+    "title": "The Rise of Innovation",
+    "author": "Ariana Smith",
+    "author_img": "https://i.pravatar.cc/150?img=1",
+    "posted_date": "2025-08-10",
+    "reading_time": 6,
+    "hashtags": ["#innovation", "#future", "#tech"]
+  },
+  {
+    "id": 2,
+    "cover": "https://ibb.co.com/stKtzh8",
+    "title": "Exploring The Digital Age",
+    "author": "Michael Johnson",
+    "author_img": "https://i.pravatar.cc/150?img=2",
+    "posted_date": "2025-07-28",
+    "reading_time":4,
+    "hashtags": ["#digital", "#technology", "#lifestyle"]
+  },
+  {
+    "id": 3,
+    "cover": "https://ibb.co.com/mvMn1g7",
+    "title": "Secrets of Creative Minds",
+    "author": "Sophia Lee",
+    "author_img": "https://i.pravatar.cc/150?img=3",
+    "posted_date": "2025-08-01",
+    "reading_time": 5,
+    "hashtags": ["#creativity", "#motivation", "#design"]
+  }, 
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/rG04tVSs/1600w-Wswt-Sj-B65rk.webp",
+    "title": "Breaking the Code",
+    "author": "David Wilson",
+    "author_img": "https://i.pravatar.cc/150?img=4",
+    "posted_date": "2025-08-15",
+    "reading_time": 7,
+    "hashtags": ["#coding", "#programming", "#developer"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/3Y1q9gVQ/1600w-2-0-C0jx-Jf-Zg.webp",
+    "title": "Journey Into Minimalism",
+    "author": "Emily Carter",
+    "author_img": "https://i.pravatar.cc/150?img=5",
+    "posted_date": "2025-08-18",
+    "reading_time": 3,
+    "hashtags": ["#minimalism", "#lifestyle", "#focus"]
+  }
+]
